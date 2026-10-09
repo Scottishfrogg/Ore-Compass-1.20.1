@@ -1,0 +1,9 @@
+{
+  "item": "minecraft:amethyst_shard",
+  "cost": 5,
+  "blocks": [
+    "minecraft:budding_amethyst",
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_cluster"
+  ]
+}

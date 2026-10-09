@@ -1,0 +1,5 @@
+{
+  "item": "minecraft:quartz",
+  "cost": 5,
+  "blocks": ["minecraft:nether_quartz_ore"]
+}

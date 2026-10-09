@@ -1,0 +1,5 @@
+{
+  "item": "minecraft:coal",
+  "cost": 5,
+  "blocks": ["#minecraft:coal_ores"]
+}

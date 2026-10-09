@@ -1,0 +1,14 @@
+{
+  "item.orecompass.ore_compass": "Ore Compass",
+
+  "message.orecompass.activated": "Tracking %s",
+  "message.orecompass.already_active": "The compass is already tracking something",
+  "message.orecompass.not_enough": "Pay %s %s to use the compass",
+  "message.orecompass.unsupported": "The compass can't track that",
+  "message.orecompass.expired": "The compass ran out of power",
+
+  "tooltip.orecompass.survival_1": "When in survival, hover over the compass with 5 of any ore to pay it,",
+  "tooltip.orecompass.survival_2": "or hold the compass in one hand and 5 ore in the other.",
+  "tooltip.orecompass.creative_1": "In creative you can only pay the compass by holding",
+  "tooltip.orecompass.creative_2": "5 ore in one hand and the compass in the other."
+}

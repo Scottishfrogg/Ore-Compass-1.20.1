@@ -1,0 +1,5 @@
+{
+  "item": "minecraft:lapis_lazuli",
+  "cost": 5,
+  "blocks": ["#minecraft:lapis_ores"]
+}

@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["minecraft:diamond"] }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": { "recipe": "orecompass:ore_compass" }
+    }
+  },
+  "requirements": [
+    ["has_the_recipe", "has_diamond"]
+  ],
+  "rewards": {
+    "recipes": ["orecompass:ore_compass"]
+  }
+}
